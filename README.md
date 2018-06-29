@@ -5,6 +5,6 @@
 ##purpose
 
  
-## How to xontribute
+## How to contribute 
 
 
